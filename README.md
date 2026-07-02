@@ -1,2 +1,0 @@
-# kritika-proposal
-index.html
